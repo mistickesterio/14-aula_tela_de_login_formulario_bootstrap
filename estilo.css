@@ -1,0 +1,10 @@
+/* Código do css importado */
+
+
+.form_tamanho {
+    padding: 10px;
+    position: relative;
+    margin: auto;
+    width: 500px;
+    border-radius: 15px;
+}
